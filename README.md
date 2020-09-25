@@ -2,10 +2,10 @@
 
 Mini project that I've been working on.
 
-Even thou this is a simple project I tried to respect all proper ways and rules of writing clean code,
+Even thou this is a simple project I tried to respect all proper ways and rules of writing clean code,<br>
 So files are already very performance friendly and it is responsive.
 
-In further versions of this project I plan to add more functions, 
+In further versions of this project I plan to add more functions,<br>
 As well as options to save some calculated numbers to be used again.
 
 Style.css = "autoprefixer", "css-nano"<br>
