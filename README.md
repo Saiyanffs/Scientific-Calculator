@@ -1,6 +1,7 @@
 # Scientific-Calculator
 
-Mini project that I've been working on.
+Mini project that I've been working on.<br>
+This project is hosted <a href="https://scientific-calculator-318d8.web.app/">here</a>.
 
 Even thou this is a simple project I tried to respect all proper ways and rules of writing clean code,<br>
 So files are already very performance friendly and it is responsive.
